@@ -1,1 +1,1 @@
-## This is a latex test git thingy
+This is a latex test git thingy
